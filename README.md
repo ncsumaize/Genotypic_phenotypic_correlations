@@ -1,7 +1,7 @@
 # Genotypic_phenotypic_correlations
 SAS Proc Mixed code to estimate genotypic and phenotypic correlations from plant breeding experiments
-
-#EXAMPLE SAS PROGRAMS FOR ESTIMATING GENOTYPIC AND PHENOTYPIC CORRELATIONS AND THEIR STANDARD ERRORS
+  
+EXAMPLE SAS PROGRAMS FOR ESTIMATING GENOTYPIC AND PHENOTYPIC CORRELATIONS AND THEIR STANDARD ERRORS
  
 Example SAS codes correspond to J.B. Holland, "Estimating genotypic correlations and their standard errors using multivariate restricted maximum likelihood estimation in SAS Proc MIXED" 2006, Crop Science 46:642-654. 
 
